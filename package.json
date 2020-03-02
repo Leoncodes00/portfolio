@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://leoncodes00.github.io/magic-eye-clarafai/",
+  "homepage": "https://leoncodes00.github.io/portfolio/",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
@@ -40,7 +40,9 @@
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.2.0",
     "jquery": "^3.4.1",
+    "node-gyp": "^6.1.0",
     "popper.js": "^1.16.1",
+    "rebuild": "^0.1.2",
     "tilt.js": "^1.2.1"
   }
 }
